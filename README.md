@@ -1,2 +1,2 @@
 # stock-analysis
-Project for Module 2
+Stock trends for DQ in 2018
